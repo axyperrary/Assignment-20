@@ -5,4 +5,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 - Organization: Uses Tableau for Data Visualizations.
 - Deployed app: None
 - Screenshots:
-![](static/images/5-Advanced.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
